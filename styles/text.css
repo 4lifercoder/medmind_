@@ -1,0 +1,44 @@
+
+	h1{
+		font-family: Arial;
+		text-align: center;
+		text-decoration: underline;
+		font-size:xx-large;
+		font-weight: bold;
+	}
+
+	p{
+		font-family: Roboto;
+		text-align: left;
+		font-size: x-large;
+    }
+	
+	body{
+		height: 125vh;  
+		margin-top: 80px;  
+		padding: 30px;  
+		background-size:contain;  
+		font-family: sans-serif;  
+	}  
+	header {  
+		background-color: rgb(94, 226, 154);  
+		position: fixed;  
+		left: 0;  
+		right: 0;  
+		top: 5px;  
+		height: 30px;  
+		display: flex;  
+		align-items: center;  
+		box-shadow: 0 0 25px 0 black;  
+	}  
+	header * {  
+	display: inline;  
+	}  
+	header li {  
+	margin: 20px;  
+	}  
+	header li a {  
+	color: rgb(8, 14, 10);  
+	text-decoration:solid;  
+}  
+	

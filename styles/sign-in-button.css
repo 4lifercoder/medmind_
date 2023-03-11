@@ -1,0 +1,26 @@
+
+	.sign-in-button {
+	background-color: rgb(61, 141, 61);
+	border: none;
+	height: 40px;
+	border-radius: 20px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 15px;
+	transition: opacity 0.15s;
+	color: black;
+	align-items: center;
+	
+	
+	
+}
+.sign-in-button:hover{
+	opacity: 0.8;
+	box-shadow: 5px 5px 10px rgba(0,0,0, 0.15);
+}
+.sign-in-button:active{
+	opacity: 0.5;
+}
+
+
+

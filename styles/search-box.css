@@ -1,0 +1,22 @@
+input {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    font-size: 12px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    float: right ;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color:black ;
+    
+  }
+.search-box{
+    font-size: 20px;
+    font-family: Roboto;
+    vertical-align: top;
+    background-color: rgb(94, 226, 154);
+    color: black;
+   
+}
+
